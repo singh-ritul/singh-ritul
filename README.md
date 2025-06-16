@@ -6,7 +6,7 @@
 
 ## Hi there 👋,
 
-### I'm Ritul Singh, I am an aspiring Computer Science engineer specializing in IoT, Cybersecurity, and Blockchain, passionate about building secure and innovative tech solutions.
+### I'm Ritul Singh, an aspiring Computer Science engineer specializing in IoT, Cybersecurity, and Blockchain, passionate about building secure and innovative tech solutions.
 -------
   
 ## 🧐 About
