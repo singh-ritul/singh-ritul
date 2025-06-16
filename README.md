@@ -11,7 +11,7 @@
   
 ## 🧐 About
 
-- 🏄‍ Third year stuedent at BMSCE persuing Computer Science engineer specializing in IoT, Cybersecurity, and Blockchain.
+- 🏄‍ Third year stuedent at BMSCE persuing Computer Science Engineer specializing in IoT, Cybersecurity, and Blockchain.
 - 😄 Passionate about impactful tech solutions, with projects in cybersecurity and web development.
-- 🌱 Active community volunteer at Rotaract and NSS
+- 🌱 Active community volunteer at Rotaract and NSS.
 - 👯 Seeking opportunities in software, cybersecurity, or IoT.
