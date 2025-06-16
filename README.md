@@ -15,3 +15,7 @@
 - 😄 Passionate about impactful tech solutions, with projects in cybersecurity and web development.
 - 🌱 Active community volunteer at Rotaract and NSS.
 - 👯 Seeking opportunities in software, cybersecurity, or IoT.
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
